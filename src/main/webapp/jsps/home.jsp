@@ -10,7 +10,7 @@
 isaac tosam http://3.91.87.236//github-webhook/ isaac tosam
 </head>
 <body>
-<h1 align="center">Welcome to JoinIT Solutions.</h1>
+<h1 align="center">I'm learning DevOps</h1>
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
 	JoinIT Solutions is a software development company. 
 	September seesion  will run from September 2, 2022.
